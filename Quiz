@@ -1,0 +1,16 @@
+1.Explain what inheritance is.
+2.Example what Polymorphism is.
+
+1.Inheritance is a mechanism wherein a new class is derived from an existing class is called a subclass.
+It allows a class to use the properties and methods of another class. it is a mechanism wherein a new class is derived 
+from an existing class.In Java, classes may inherit or acquire the properties and methods of other classes. It always 
+use extends to inherit classes.
+
+
+2.Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism
+occurs when a parent class reference is used to refer to a child class object.and it also is the capability of a method 
+to do different things based on the object that it is acting upon. polymorphism allows we define one 
+interface and have multiple implementations.
+
+
+
